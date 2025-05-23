@@ -1,0 +1,121 @@
+build/
+out/
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+*.cmake
+Makefile
+CTestTestfile.cmake
+Testing/
+
+# Visual Studio
+*.sln
+*.vcxproj*
+*.vcxproj.user
+*.vcxproj.filters
+*.suo
+*.sdf
+*.opensdf
+.ipch/
+*.log
+*.tlog
+*.lastbuildstate
+
+# Executables and Libraries
+*.exe
+*.dll
+*.lib
+*.a
+*.so
+*.pdb
+*.ilk
+*.obj
+*.iobj
+*.ipdb
+*.idb
+*.exp
+
+# ===================================
+# IDE & Editor Configurations
+# ===================================
+.vs/
+.vscode/
+.idea/
+.clion/
+cmake-build-*/
+
+# ===================================
+# Dependency Management
+# ===================================
+# Local libraries (precompiled binaries)
+Libraries/lib/
+Libraries/bin/
+Libraries/include/  # If you have custom local headers, remove this line
+
+# Package managers
+vcpkg/
+vcpkg_installed/
+conanbuildinfo.*
+conaninfo.txt
+conan_imports_manifest.txt
+
+# ===================================
+# Asset Pipeline & Runtime Files
+# ===================================
+# Compiled shaders
+*.spv
+*.bin
+
+# Engine cache files
+.cache/
+.thumbs
+*.import
+
+# Temporary assets
+*.tmp
+*.bak
+*~
+
+# Large binaries (use Git LFS instead)
+*.jpg
+*.png
+*.psd
+*.fbx
+*.obj
+*.blend
+*.zip
+*.7z
+
+# ===================================
+# System & OS Files
+# ===================================
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+Desktop.ini
+
+# ===================================
+# Project-Specific Patterns
+# ===================================
+# Compiled resource packs
+*.pack
+*.bundle
+
+# Engine configuration overrides
+user.config
+local.settings
+
+# Profiling data
+*.prof
+*.trace
+
+# ===================================
+# Documentation & Tools
+# ===================================
+docs/_build/
+docs/_static/
+docs/_templates/

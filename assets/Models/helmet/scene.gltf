@@ -1,0 +1,468 @@
+{
+  "accessors": [
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 1268,
+      "max": [
+        6.937262058258057,
+        6.804255962371826,
+        137.38070678710938
+      ],
+      "min": [
+        -6.937256813049316,
+        -2.499398946762085,
+        117.61454772949219
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 15216,
+      "componentType": 5126,
+      "count": 1268,
+      "max": [
+        0.9993763566017151,
+        0.99085533618927,
+        0.9916538596153259
+      ],
+      "min": [
+        -0.9993764758110046,
+        -0.9996780157089233,
+        -0.9905328750610352
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "componentType": 5126,
+      "count": 1268,
+      "max": [
+        0.9999733567237854,
+        0.3704030215740204,
+        0.7914725542068481,
+        1.0
+      ],
+      "min": [
+        -0.9999733567237854,
+        -0.9956704378128052,
+        -0.8421165943145752,
+        -1.0
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 1268,
+      "max": [
+        0.8908889889717102,
+        0.9919769763946533
+      ],
+      "min": [
+        0.052792999893426895,
+        0.005226000212132931
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "componentType": 5125,
+      "count": 4056,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 30432,
+      "componentType": 5126,
+      "count": 1351,
+      "max": [
+        7.032997131347656,
+        11.308563232421875,
+        138.14694213867188
+      ],
+      "min": [
+        -7.029962062835693,
+        -9.999935150146484,
+        112.56900024414063
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 46644,
+      "componentType": 5126,
+      "count": 1351,
+      "max": [
+        0.9995408654212952,
+        0.9999668598175049,
+        0.9982972145080566
+      ],
+      "min": [
+        -0.9994561076164246,
+        -0.9999736547470093,
+        -0.9990751147270203
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "byteOffset": 20288,
+      "componentType": 5126,
+      "count": 1351,
+      "max": [
+        0.9921738505363464,
+        0.944932758808136,
+        0.9999725818634033,
+        1.0
+      ],
+      "min": [
+        -0.99217289686203,
+        -0.9982972145080566,
+        -0.9930108189582825,
+        -1.0
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 10144,
+      "componentType": 5126,
+      "count": 1351,
+      "max": [
+        0.982928991317749,
+        0.9960479736328125
+      ],
+      "min": [
+        0.003717999905347824,
+        0.0067170001566410065
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 16224,
+      "componentType": 5125,
+      "count": 6984,
+      "type": "SCALAR"
+    }
+  ],
+  "asset": {
+    "extras": {
+      "author": "Caoimhghin (https://sketchfab.com/Caoimhghin)",
+      "license": "CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)",
+      "source": "https://sketchfab.com/3d-models/lotr-gondor-citadel-helmet-df82782ce79d48399a32878b60d8b28b",
+      "title": "LOTR Gondor Citadel Helmet"
+    },
+    "generator": "Sketchfab-12.67.0",
+    "version": "2.0"
+  },
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteLength": 44160,
+      "name": "floatBufferViews",
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 20952,
+      "byteOffset": 44160,
+      "byteStride": 8,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 62856,
+      "byteOffset": 65112,
+      "byteStride": 12,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 41904,
+      "byteOffset": 127968,
+      "byteStride": 16,
+      "name": "floatBufferViews",
+      "target": 34962
+    }
+  ],
+  "buffers": [
+    {
+      "byteLength": 169872,
+      "uri": "scene.bin"
+    }
+  ],
+  "extensionsRequired": [
+    "KHR_materials_pbrSpecularGlossiness"
+  ],
+  "extensionsUsed": [
+    "KHR_materials_pbrSpecularGlossiness"
+  ],
+  "images": [
+    {
+      "uri": "textures/Helmet_diffuse.png"
+    },
+    {
+      "uri": "textures/Helmet_specularGlossiness.png"
+    },
+    {
+      "uri": "textures/Helmet_normal.png"
+    },
+    {
+      "uri": "textures/Wings_diffuse.png"
+    },
+    {
+      "uri": "textures/Wings_specularGlossiness.png"
+    },
+    {
+      "uri": "textures/Wings_normal.png"
+    }
+  ],
+  "materials": [
+    {
+      "doubleSided": true,
+      "extensions": {
+        "KHR_materials_pbrSpecularGlossiness": {
+          "diffuseFactor": [
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ],
+          "diffuseTexture": {
+            "index": 0
+          },
+          "glossinessFactor": 1.0,
+          "specularFactor": [
+            1.0,
+            1.0,
+            1.0
+          ],
+          "specularGlossinessTexture": {
+            "index": 1
+          }
+        }
+      },
+      "name": "Helmet",
+      "normalTexture": {
+        "index": 2
+      }
+    },
+    {
+      "doubleSided": true,
+      "extensions": {
+        "KHR_materials_pbrSpecularGlossiness": {
+          "diffuseFactor": [
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ],
+          "diffuseTexture": {
+            "index": 3
+          },
+          "glossinessFactor": 1.0,
+          "specularFactor": [
+            1.0,
+            1.0,
+            1.0
+          ],
+          "specularGlossinessTexture": {
+            "index": 4
+          }
+        }
+      },
+      "name": "Wings",
+      "normalTexture": {
+        "index": 5
+      }
+    }
+  ],
+  "meshes": [
+    {
+      "name": "Wings",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 1,
+            "POSITION": 0,
+            "TANGENT": 2,
+            "TEXCOORD_0": 3
+          },
+          "indices": 4,
+          "material": 1,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Helmet",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 6,
+            "POSITION": 5,
+            "TANGENT": 7,
+            "TEXCOORD_0": 8
+          },
+          "indices": 9,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "children": [
+        1
+      ],
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        2.220446049250313e-16,
+        -1.0,
+        0.0,
+        0.0,
+        1.0,
+        2.220446049250313e-16,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "Sketchfab_model"
+    },
+    {
+      "children": [
+        2,
+        4
+      ],
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        -4.371139006309477e-08,
+        0.999999999999999,
+        0.0,
+        0.0,
+        -0.999999999999999,
+        -4.371139006309477e-08,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "Collada visual scene group"
+    },
+    {
+      "children": [
+        3
+      ],
+      "matrix": [
+        -0.58,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.525,
+        0.0,
+        0.0,
+        0.55,
+        0.0,
+        0.0,
+        0.0,
+        -3.661417,
+        -0.511811,
+        1.0
+      ],
+      "name": "citadelwings_lod1"
+    },
+    {
+      "mesh": 0,
+      "name": "Wings"
+    },
+    {
+      "children": [
+        5
+      ],
+      "matrix": [
+        -0.58,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.525,
+        0.0,
+        0.0,
+        0.55,
+        0.0,
+        0.0,
+        0.0,
+        -3.669981,
+        -0.511811,
+        1.0
+      ],
+      "name": "citadelhelmet_lod1"
+    },
+    {
+      "mesh": 1,
+      "name": "Helmet"
+    }
+  ],
+  "samplers": [
+    {
+      "magFilter": 9729,
+      "minFilter": 9987,
+      "wrapS": 10497,
+      "wrapT": 10497
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "Sketchfab_Scene",
+      "nodes": [
+        0
+      ]
+    }
+  ],
+  "textures": [
+    {
+      "sampler": 0,
+      "source": 0
+    },
+    {
+      "sampler": 0,
+      "source": 1
+    },
+    {
+      "sampler": 0,
+      "source": 2
+    },
+    {
+      "sampler": 0,
+      "source": 3
+    },
+    {
+      "sampler": 0,
+      "source": 4
+    },
+    {
+      "sampler": 0,
+      "source": 5
+    }
+  ]
+}
